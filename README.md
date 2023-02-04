@@ -1,1 +1,3 @@
-# QRCode-Generator  https://tasleem57.github.io/QRCode-Generator/
+# QRCode-Generator  
+
+#https://tasleem57.github.io/QRCode-Generator/
